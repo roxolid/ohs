@@ -13,7 +13,7 @@ Follow the steps below to get this image up and running.
 
 ### Prerequisities
 
-Obviously, you need to have Docker installed on your computer (if you don't have it yet, setup it following the instructions on [Docker Installation page](https://docs.docker.com/installation/)). Then, you will also need to download and unzip the OHS binary installation file available on Oracle Technology Network (OTN).
+Obviously, you need to have Docker installed on your computer (if you don't have it yet, setup it following the instructions on [Docker Installation page](https://docs.docker.com/installation/)). Then, you will also need to download and unzip the OHS binary installation file available on [Oracle Technology Network](http://www.oracle.com/technetwork/middleware/webtier/downloads/index.html) (OTN). The file you download should be named _fmw_12.1.3.0.0_ohs_linux64_Disk1_1of1.zip_ and after unzipping you should get _fmw_12.1.3.0.0_ohs_linux64.bin_
 > Downloading of product cannot be automatized because you need to accept the Licence agreement.
 
 > Please note, that you will need OTN account for that - but you certainly already have one. If not, no problem - it's free, just create one by registering on any OTN page (probably the download page in this case).
